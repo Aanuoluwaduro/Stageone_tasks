@@ -32,6 +32,7 @@ wget https://github.com/josoga2/yt-dataset/blob/main/dataset/raw_reads/Chara_R2.
 
 ls
 mkdir output
+mkdir fastqc_report
 
 #running fastqc on all files 
 
