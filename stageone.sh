@@ -47,9 +47,7 @@ ls
 #going  to work on fastp
 
 cd ..
-touch fastpresult.sh
-chmod u=rwx
-nano fastpresult.sh
+wget https://raw.githubusercontent.com/Aanuoluwaduro/Stageone_tasks/main/fastpresult.sh -O fastpresult.sh
 bash fastpresult.sh
 ls
 
