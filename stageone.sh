@@ -18,8 +18,8 @@ which python
 which conda
 
 #installing fastqc, fastp and multiqc
-conda install -c bioconda fastp
 sudo apt-get install fastqc
+sudo apt-get install fastp
 sudo apt-get install multiqc 
 
 #downloading datasets from github repo
@@ -49,7 +49,8 @@ ls
 
 cd ..
 wget https://raw.githubusercontent.com/Aanuoluwaduro/Stageone_tasks/main/fastpresult.sh -O fastpresult.sh
-bash fastpresult.sh
+chmod +x fastpresult.sh
+./fastpresult.sh
 ls
 
 #moving my fastp and fastqc to output folder
