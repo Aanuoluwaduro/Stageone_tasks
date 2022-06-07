@@ -48,6 +48,7 @@ ls
 
 cd ..
 touch fastpresult.sh
+chmod u=rwx
 nano fastpresult.sh
 bash fastpresult.sh
 ls
