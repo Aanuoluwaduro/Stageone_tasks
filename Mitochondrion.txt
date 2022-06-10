@@ -1,0 +1,2029 @@
+ID   EF4:Mitochondrion   standard; DNA; UNK; 85779 BP.
+XX
+AC   chromosome:EF4:Mitochondrion:1:85779:1;
+XX
+DE   
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   gene            731..802
+FT                   /source="SGD_GENE"
+FT                   /name="tP(UGG)Q"
+FT                   /id="tP(UGG)Q"
+FT                   /description="Mitochondrial proline tRNA (tRNA-Pro)
+FT                   [Source:SGD;Acc:S000007328]"
+FT                   /biotype="tRNA"
+FT   mRNA            731..802
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tP(UGG)Q"
+FT                   /id="tP(UGG)Q"
+FT                   /description="Mitochondrial proline tRNA (tRNA-Pro)
+FT                   [Source:SGD;Acc:S000007328]"
+FT                   /biotype="tRNA"
+FT   gene            3952..4338
+FT                   /source="SGD_GENE"
+FT                   /name="Q0010"
+FT                   /id="Q0010"
+FT                   /description="Dubious mitochondrial open reading frame
+FT                   unlikely to encode a protein, based on available
+FT                   experimental and comparative sequence data; partially
+FT                   overlaps the dubious ORF Q0017
+FT                   [Source:SGD;Acc:S000007257]"
+FT                   /biotype="protein_coding"
+FT   mRNA            3952..4338
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0010"
+FT                   /id="Q0010"
+FT                   /description="Dubious mitochondrial open reading frame
+FT                   unlikely to encode a protein, based on available
+FT                   experimental and comparative sequence data; partially
+FT                   overlaps the dubious ORF Q0017
+FT                   [Source:SGD;Acc:S000007257]"
+FT                   /biotype="protein_coding"
+FT   CDS             3952..4338
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0010_YEAST"
+FT                   /db_xref="UniParc:UPI0000098937"
+FT                   /name="Q0010"
+FT                   /id="Q0010"
+FT                   /description="Dubious mitochondrial open reading frame
+FT                   unlikely to encode a protein, based on available
+FT                   experimental and comparative sequence data; partially
+FT                   overlaps the dubious ORF Q0017
+FT                   [Source:SGD;Acc:S000007257]"
+FT   gene            4254..4415
+FT                   /source="SGD_GENE"
+FT                   /name="Q0017"
+FT                   /id="Q0017"
+FT                   /description="Dubious mitochondrial open reading frame
+FT                   unlikely to encode a protein, based on available
+FT                   experimental and comparative sequence data; partially
+FT                   overlaps the dubious ORF Q0010
+FT                   [Source:SGD;Acc:S000007258]"
+FT                   /biotype="protein_coding"
+FT   mRNA            4254..4415
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0017"
+FT                   /id="Q0017"
+FT                   /description="Dubious mitochondrial open reading frame
+FT                   unlikely to encode a protein, based on available
+FT                   experimental and comparative sequence data; partially
+FT                   overlaps the dubious ORF Q0010
+FT                   [Source:SGD;Acc:S000007258]"
+FT                   /biotype="protein_coding"
+FT   CDS             4254..4415
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0017_YEAST"
+FT                   /db_xref="UniParc:UPI000008F580"
+FT                   /name="Q0017"
+FT                   /id="Q0017"
+FT                   /description="Dubious mitochondrial open reading frame
+FT                   unlikely to encode a protein, based on available
+FT                   experimental and comparative sequence data; partially
+FT                   overlaps the dubious ORF Q0010
+FT                   [Source:SGD;Acc:S000007258]"
+FT   gene            6546..8194
+FT                   /source="SGD_GENE"
+FT                   /name="15S_RRNA"
+FT                   /id="15S_rRNA"
+FT                   /description="Ribosomal RNA of the small mitochondrial
+FT                   ribosomal subunit; MSU1 allele suppresses ochre stop
+FT                   mutations in mitochondrial protein-coding genes
+FT                   [Source:SGD;Acc:S000007287]"
+FT                   /biotype="rRNA"
+FT   rRNA            6546..8194
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="15S_RRNA"
+FT                   /id="15S_rRNA"
+FT                   /description="Ribosomal RNA of the small mitochondrial
+FT                   ribosomal subunit; MSU1 allele suppresses ochre stop
+FT                   mutations in mitochondrial protein-coding genes
+FT                   [Source:SGD;Acc:S000007287]"
+FT                   /biotype="rRNA"
+FT   gene            9374..9447
+FT                   /source="SGD_GENE"
+FT                   /name="tW(UCA)Q"
+FT                   /id="tW(UCA)Q"
+FT                   /description="Mitochondrial tRNA, annotated as
+FT                   tryptophanyl tRNA (tRNA-Trp); predicted by tRNAscan-SE
+FT                   analysis to have specificity for selenocysteine
+FT                   [Source:SGD;Acc:S000007337]"
+FT                   /biotype="tRNA"
+FT   mRNA            9374..9447
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tW(UCA)Q"
+FT                   /id="tW(UCA)Q"
+FT                   /description="Mitochondrial tRNA, annotated as
+FT                   tryptophanyl tRNA (tRNA-Trp); predicted by tRNAscan-SE
+FT                   analysis to have specificity for selenocysteine
+FT                   [Source:SGD;Acc:S000007337]"
+FT                   /biotype="tRNA"
+FT   gene            11667..11957
+FT                   /source="SGD_GENE"
+FT                   /name="Q0032"
+FT                   /id="Q0032"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007259]"
+FT                   /biotype="protein_coding"
+FT   mRNA            11667..11957
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0032"
+FT                   /id="Q0032"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007259]"
+FT                   /biotype="protein_coding"
+FT   CDS             11667..11957
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0032_YEAST"
+FT                   /db_xref="UniParc:UPI0000094C48"
+FT                   /name="Q0032"
+FT                   /id="Q0032"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007259]"
+FT   gene            13818..18830
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:AI2"
+FT                   /db_xref="Uniprot_genename:AI2"
+FT                   /db_xref="EntrezGene:AI2"
+FT                   /name="AI2"
+FT                   /id="Q0055"
+FT                   /description="Reverse transcriptase required for splicing
+FT                   of the COX1 pre-mRNA, encoded by a mobile group II intron
+FT                   within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007262]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(13818..13986,16435..18830)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184354.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184354.1"
+FT                   /name="AI2"
+FT                   /id="Q0055"
+FT                   /description="Reverse transcriptase required for splicing
+FT                   of the COX1 pre-mRNA, encoded by a mobile group II intron
+FT                   within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007262]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(13818..13986,16435..18830)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:AI2M_YEAST"
+FT                   /db_xref="UniParc:UPI0000091E11"
+FT                   /db_xref="goslim_goa:GO:0009536"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0009058"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="RefSeq_peptide:NP_009309.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0006278 RNA-dependent DNA replication
+FT                   (biological_process)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0003964 RNA-directed DNA polymerase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009507 chloroplast (cellular_component)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0003676 nucleic acid binding
+FT                   (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="AI2"
+FT                   /id="Q0055"
+FT                   /description="Reverse transcriptase required for splicing
+FT                   of the COX1 pre-mRNA, encoded by a mobile group II intron
+FT                   within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007262]"
+FT   gene            13818..21935
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:AI4"
+FT                   /db_xref="Uniprot_genename:AI4"
+FT                   /db_xref="EntrezGene:AI4"
+FT                   /name="AI4"
+FT                   /id="Q0065"
+FT                   /description="Endonuclease I-SceII, encoded by a mobile
+FT                   group I intron within the mitochondrial COX1 gene; intron
+FT                   is normally spliced by the BI4p maturase but AI4p can
+FT                   mutate to acquire the same maturase activity
+FT                   [Source:SGD;Acc:S000007264]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(13818..13986,16435..16470,18954..18991,20508..21935)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184356.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184356.1"
+FT                   /name="AI4"
+FT                   /id="Q0065"
+FT                   /description="Endonuclease I-SceII, encoded by a mobile
+FT                   group I intron within the mitochondrial COX1 gene; intron
+FT                   is normally spliced by the BI4p maturase but AI4p can
+FT                   mutate to acquire the same maturase activity
+FT                   [Source:SGD;Acc:S000007264]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(13818..13986,16435..16470,18954..18991,20508..21935)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:3.1.-.-"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE2_YEAST"
+FT                   /db_xref="UniParc:UPI0000174BFB"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009307.2"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="AI4"
+FT                   /id="Q0065"
+FT                   /description="Endonuclease I-SceII, encoded by a mobile
+FT                   group I intron within the mitochondrial COX1 gene; intron
+FT                   is normally spliced by the BI4p maturase but AI4p can
+FT                   mutate to acquire the same maturase activity
+FT                   [Source:SGD;Acc:S000007264]"
+FT   gene            13818..26701
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:COX1"
+FT                   /db_xref="Uniprot_genename:COX1"
+FT                   /db_xref="Uniprot_genename:OXI3"
+FT                   /db_xref="EntrezGene:COX1"
+FT                   /name="COX1"
+FT                   /id="Q0045"
+FT                   /description="Subunit I of cytochrome c oxidase, which is
+FT                   the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007260]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..22246,23612..23746,25318..25342,26229..26701)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184352.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184352.1"
+FT                   /name="COX1"
+FT                   /id="Q0045"
+FT                   /description="Subunit I of cytochrome c oxidase, which is
+FT                   the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007260]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..22246,23612..23746,25318..25342,26229..26701)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:1.9.3.1"
+FT                   /db_xref="Uniprot/SWISSPROT:COX1_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7GEZ2_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9Y6_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9Y5_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9Y4_YEASX"
+FT                   /db_xref="UniParc:UPI0000095A7E"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0006810"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0046872 metal ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009305.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005751 mitochondrial respiratory chain
+FT                   complex IV (cellular_component)"
+FT                   /db_xref="GO:0006123 mitochondrial electron transport,
+FT                   cytochrome c to oxygen (biological_process)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0022900 electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0070469 respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /name="COX1"
+FT                   /id="Q0045"
+FT                   /description="Subunit I of cytochrome c oxidase, which is
+FT                   the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007260]"
+FT   gene            13818..23167
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:AI5_ALPHA"
+FT                   /db_xref="Uniprot_genename:AI5_ALPHA"
+FT                   /db_xref="Uniprot_genename:OXI3"
+FT                   /db_xref="EntrezGene:AI5_ALPHA"
+FT                   /name="AI5_ALPHA"
+FT                   /id="Q0070"
+FT                   /description="Endonuclease I-SceIV, involved in intron
+FT                   mobility; encoded by a mobile group I intron within the
+FT                   mitochondrial COX1 gene [Source:SGD;Acc:S000007265]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..23167)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184357.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184357.1"
+FT                   /name="AI5_ALPHA"
+FT                   /id="Q0070"
+FT                   /description="Endonuclease I-SceIV, involved in intron
+FT                   mobility; encoded by a mobile group I intron within the
+FT                   mitochondrial COX1 gene [Source:SGD;Acc:S000007265]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(13818..13986,16435..16470,18954..18991,20508..20984,
+FT                   21995..23167)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:3.1.-.-"
+FT                   /db_xref="EC_NUMBER:1.9.3.1"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE4_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9Y6_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9Y5_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9Y4_YEASX"
+FT                   /db_xref="UniParc:UPI0000091C05"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009306.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006316 movement of group I intron
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="AI5_ALPHA"
+FT                   /id="Q0070"
+FT                   /description="Endonuclease I-SceIV, involved in intron
+FT                   mobility; encoded by a mobile group I intron within the
+FT                   mitochondrial COX1 gene [Source:SGD;Acc:S000007265]"
+FT   gene            13818..16322
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:AI1"
+FT                   /db_xref="Uniprot_genename:AI1"
+FT                   /db_xref="EntrezGene:AI1"
+FT                   /name="AI1"
+FT                   /id="Q0050"
+FT                   /description="Reverse transcriptase required for splicing
+FT                   of the COX1 pre-mRNA, encoded by a mobile group II intron
+FT                   within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007261]"
+FT                   /biotype="protein_coding"
+FT   mRNA            13818..16322
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184353.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184353.1"
+FT                   /name="AI1"
+FT                   /id="Q0050"
+FT                   /description="Reverse transcriptase required for splicing
+FT                   of the COX1 pre-mRNA, encoded by a mobile group II intron
+FT                   within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007261]"
+FT                   /biotype="protein_coding"
+FT   CDS             13818..16322
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:AI1M_YEAST"
+FT                   /db_xref="UniParc:UPI0000097281"
+FT                   /db_xref="goslim_goa:GO:0009536"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0009058"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="RefSeq_peptide:NP_009310.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0045333 cellular respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0006278 RNA-dependent DNA replication
+FT                   (biological_process)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0003964 RNA-directed DNA polymerase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009507 chloroplast (cellular_component)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0006315 homing of group II introns
+FT                   (biological_process)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0003676 nucleic acid binding
+FT                   (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="AI1"
+FT                   /id="Q0050"
+FT                   /description="Reverse transcriptase required for splicing
+FT                   of the COX1 pre-mRNA, encoded by a mobile group II intron
+FT                   within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007261]"
+FT   gene            13818..19996
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:AI3"
+FT                   /db_xref="Uniprot_genename:AI3"
+FT                   /db_xref="EntrezGene:AI3"
+FT                   /name="AI3"
+FT                   /id="Q0060"
+FT                   /description="Endonuclease I-SceIII, encoded by a mobile
+FT                   group I intron within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007263]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(13818..13986,16435..16470,18954..19996)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184355.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184355.1"
+FT                   /name="AI3"
+FT                   /id="Q0060"
+FT                   /description="Endonuclease I-SceIII, encoded by a mobile
+FT                   group I intron within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007263]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(13818..13986,16435..16470,18954..19996)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:3.1.-.-"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE3_YEAST"
+FT                   /db_xref="UniParc:UPI00001787BE"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009308.2"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005506 iron ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0008150 biological_process
+FT                   (biological_process)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="AI3"
+FT                   /id="Q0060"
+FT                   /description="Endonuclease I-SceIII, encoded by a mobile
+FT                   group I intron within the mitochondrial COX1 gene
+FT                   [Source:SGD;Acc:S000007263]"
+FT   gene            24156..25255
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:AI5_BETA"
+FT                   /db_xref="Uniprot_genename:AI5_BETA"
+FT                   /db_xref="EntrezGene:AI5_BETA"
+FT                   /name="AI5_BETA"
+FT                   /id="Q0075"
+FT                   /description="Protein of unknown function, encoded within
+FT                   an intron of the mitochondrial COX1 gene; translational
+FT                   initiation codon is predicted to be ATA rather than ATG
+FT                   [Source:SGD;Acc:S000007266]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(24156..24870,24906..25255)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184358.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184358.1"
+FT                   /name="AI5_BETA"
+FT                   /id="Q0075"
+FT                   /description="Protein of unknown function, encoded within
+FT                   an intron of the mitochondrial COX1 gene; translational
+FT                   initiation codon is predicted to be ATA rather than ATG
+FT                   [Source:SGD;Acc:S000007266]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(24156..24870,24906..25255)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:3.1.-.-"
+FT                   /db_xref="Uniprot/SWISSPROT:AI5B_YEAST"
+FT                   /db_xref="UniParc:UPI000008BB0C"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0003674 molecular_function
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0016787 hydrolase activity
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009311.2"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008150 biological_process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="AI5_BETA"
+FT                   /id="Q0075"
+FT                   /description="Protein of unknown function, encoded within
+FT                   an intron of the mitochondrial COX1 gene; translational
+FT                   initiation codon is predicted to be ATA rather than ATG
+FT                   [Source:SGD;Acc:S000007266]"
+FT   gene            27666..27812
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:ATP8"
+FT                   /db_xref="Uniprot_genename:ATP8"
+FT                   /db_xref="Uniprot_genename:AAP1"
+FT                   /db_xref="EntrezGene:ATP8"
+FT                   /name="ATP8"
+FT                   /id="Q0080"
+FT                   /description="Subunit 8 of the F0 sector of mitochondrial
+FT                   inner membrane F1-F0 ATP synthase, encoded on the
+FT                   mitochondrial genome; ATP8 and ATP6 mRNAs are not
+FT                   translated in the absence of the F1 sector of ATPase
+FT                   [Source:SGD;Acc:S000007267]"
+FT                   /biotype="protein_coding"
+FT   mRNA            27666..27812
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184359.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184359.1"
+FT                   /name="ATP8"
+FT                   /id="Q0080"
+FT                   /description="Subunit 8 of the F0 sector of mitochondrial
+FT                   inner membrane F1-F0 ATP synthase, encoded on the
+FT                   mitochondrial genome; ATP8 and ATP6 mRNAs are not
+FT                   translated in the absence of the F1 sector of ATPase
+FT                   [Source:SGD;Acc:S000007267]"
+FT                   /biotype="protein_coding"
+FT   CDS             27666..27812
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:ATP8_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7GHK0_YEASX"
+FT                   /db_xref="UniParc:UPI0000000277"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0055085"
+FT                   /db_xref="goslim_goa:GO:0044281"
+FT                   /db_xref="goslim_goa:GO:0009058"
+FT                   /db_xref="goslim_goa:GO:0006810"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="RefSeq_peptide:NP_009312.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0015078 hydrogen ion transmembrane
+FT                   transporter activity (molecular_function)"
+FT                   /db_xref="GO:0045263 proton-transporting ATP synthase
+FT                   complex, coupling factor F(o) (cellular_component)"
+FT                   /db_xref="GO:0000276 mitochondrial proton-transporting ATP
+FT                   synthase complex, coupling factor F(o)
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006754 ATP biosynthetic process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0046961 proton-transporting ATPase activity,
+FT                   rotational mechanism (molecular_function)"
+FT                   /db_xref="GO:0046933 hydrogen ion transporting ATP
+FT                   synthase activity, rotational mechanism
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0015986 ATP synthesis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0015992 proton transport
+FT                   (biological_process)"
+FT                   /db_xref="GO:0031966 mitochondrial membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006811 ion transport (biological_process)"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /name="ATP8"
+FT                   /id="Q0080"
+FT                   /description="Subunit 8 of the F0 sector of mitochondrial
+FT                   inner membrane F1-F0 ATP synthase, encoded on the
+FT                   mitochondrial genome; ATP8 and ATP6 mRNAs are not
+FT                   translated in the absence of the F1 sector of ATPase
+FT                   [Source:SGD;Acc:S000007267]"
+FT   gene            28487..29266
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:ATP6"
+FT                   /db_xref="Uniprot_genename:ATP6"
+FT                   /db_xref="EntrezGene:ATP6"
+FT                   /name="ATP6"
+FT                   /id="Q0085"
+FT                   /description="Mitochondrially encoded subunit a of the F0
+FT                   sector of mitochondrial F1F0 ATP synthase; translation is
+FT                   specifically activated by Atp22p; ATP6 and ATP8 mRNAs are
+FT                   not translated in the absence of the F1 sector of ATPase
+FT                   [Source:SGD;Acc:S000007268]"
+FT                   /biotype="protein_coding"
+FT   mRNA            28487..29266
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184360.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184360.1"
+FT                   /name="ATP6"
+FT                   /id="Q0085"
+FT                   /description="Mitochondrially encoded subunit a of the F0
+FT                   sector of mitochondrial F1F0 ATP synthase; translation is
+FT                   specifically activated by Atp22p; ATP6 and ATP8 mRNAs are
+FT                   not translated in the absence of the F1 sector of ATPase
+FT                   [Source:SGD;Acc:S000007268]"
+FT                   /biotype="protein_coding"
+FT   CDS             28487..29266
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:ATP6_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7GHJ9_YEASX"
+FT                   /db_xref="UniParc:UPI0000126351"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0055085"
+FT                   /db_xref="goslim_goa:GO:0044281"
+FT                   /db_xref="goslim_goa:GO:0009058"
+FT                   /db_xref="goslim_goa:GO:0006810"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="RefSeq_peptide:NP_009313.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0015078 hydrogen ion transmembrane
+FT                   transporter activity (molecular_function)"
+FT                   /db_xref="GO:0045263 proton-transporting ATP synthase
+FT                   complex, coupling factor F(o) (cellular_component)"
+FT                   /db_xref="GO:0000276 mitochondrial proton-transporting ATP
+FT                   synthase complex, coupling factor F(o)
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006754 ATP biosynthetic process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0046961 proton-transporting ATPase activity,
+FT                   rotational mechanism (molecular_function)"
+FT                   /db_xref="GO:0046933 hydrogen ion transporting ATP
+FT                   synthase activity, rotational mechanism
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0015986 ATP synthesis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0015992 proton transport
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006811 ion transport (biological_process)"
+FT                   /db_xref="GO:0016887 ATPase activity (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /name="ATP6"
+FT                   /id="Q0085"
+FT                   /description="Mitochondrially encoded subunit a of the F0
+FT                   sector of mitochondrial F1F0 ATP synthase; translation is
+FT                   specifically activated by Atp22p; ATP6 and ATP8 mRNAs are
+FT                   not translated in the absence of the F1 sector of ATPase
+FT                   [Source:SGD;Acc:S000007268]"
+FT   gene            30874..31014
+FT                   /source="SGD_GENE"
+FT                   /name="Q0092"
+FT                   /id="Q0092"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007269]"
+FT                   /biotype="protein_coding"
+FT   mRNA            30874..31014
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0092"
+FT                   /id="Q0092"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007269]"
+FT                   /biotype="protein_coding"
+FT   CDS             30874..31014
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0092_YEAST"
+FT                   /db_xref="UniParc:UPI000008D344"
+FT                   /name="Q0092"
+FT                   /id="Q0092"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007269]"
+FT   gene            35373..35444
+FT                   /source="SGD_GENE"
+FT                   /name="tE(UUC)Q"
+FT                   /id="tE(UUC)Q"
+FT                   /description="Mitochondrial glutamate tRNA (tRNA-Glu),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007318]"
+FT                   /biotype="tRNA"
+FT   mRNA            35373..35444
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tE(UUC)Q"
+FT                   /id="tE(UUC)Q"
+FT                   /description="Mitochondrial glutamate tRNA (tRNA-Glu),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007318]"
+FT                   /biotype="tRNA"
+FT   gene            36540..38579
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:BI2"
+FT                   /db_xref="Uniprot_genename:BI2"
+FT                   /db_xref="EntrezGene:BI2"
+FT                   /name="BI2"
+FT                   /id="Q0110"
+FT                   /description="Mitochondrial mRNA maturase with a role in
+FT                   splicing, encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007271]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(36540..36954,37723..38579)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184363.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184363.1"
+FT                   /name="BI2"
+FT                   /id="Q0110"
+FT                   /description="Mitochondrial mRNA maturase with a role in
+FT                   splicing, encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007271]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(36540..36954,37723..38579)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:MBI2_YEAST"
+FT                   /db_xref="UniParc:UPI000009725D"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="RefSeq_peptide:NP_009318.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0022904 respiratory electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0004518 nuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /name="BI2"
+FT                   /id="Q0110"
+FT                   /description="Mitochondrial mRNA maturase with a role in
+FT                   splicing, encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007271]"
+FT   gene            36540..43647
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:COB"
+FT                   /db_xref="Uniprot_genename:COB"
+FT                   /db_xref="EntrezGene:COB"
+FT                   /name="COB"
+FT                   /id="Q0105"
+FT                   /description="Cytochrome b, mitochondrially encoded
+FT                   subunit of the ubiquinol-cytochrome c reductase complex
+FT                   which includes Cobp, Rip1p, Cyt1p, Cor1p, Qcr2p, Qcr6p,
+FT                   Qcr7p, Qcr8p, Qcr9p, and Qcr10p
+FT                   [Source:SGD;Acc:S000007270]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(36540..36954,37723..37736,39141..39217,40841..41090,
+FT                   42508..42558,43297..43647)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184362.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184362.1"
+FT                   /name="COB"
+FT                   /id="Q0105"
+FT                   /description="Cytochrome b, mitochondrially encoded
+FT                   subunit of the ubiquinol-cytochrome c reductase complex
+FT                   which includes Cobp, Rip1p, Cyt1p, Cor1p, Qcr2p, Qcr6p,
+FT                   Qcr7p, Qcr8p, Qcr9p, and Qcr10p
+FT                   [Source:SGD;Acc:S000007270]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(36540..36954,37723..37736,39141..39217,40841..41090,
+FT                   42508..42558,43297..43647)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:CYB_YEAST"
+FT                   /db_xref="UniParc:UPI000009099B"
+FT                   /db_xref="PDB:3CXH"
+FT                   /db_xref="PDB:3CX5"
+FT                   /db_xref="PDB:2IBZ"
+FT                   /db_xref="PDB:1P84"
+FT                   /db_xref="PDB:1KYO"
+FT                   /db_xref="PDB:1KB9"
+FT                   /db_xref="PDB:1EZV"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0006810"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0046872 metal ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009315.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0045153 electron transporter, transferring
+FT                   electrons within CoQH2-cytochrome c reductase complex
+FT                   activity (molecular_function)"
+FT                   /db_xref="GO:0008121 ubiquinol-cytochrome-c reductase
+FT                   activity (molecular_function)"
+FT                   /db_xref="GO:0006122 mitochondrial electron transport,
+FT                   ubiquinol to cytochrome c (biological_process)"
+FT                   /db_xref="GO:0005750 mitochondrial respiratory chain
+FT                   complex III (cellular_component)"
+FT                   /db_xref="GO:0022904 respiratory electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0022900 electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0070469 respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /name="COB"
+FT                   /id="Q0105"
+FT                   /description="Cytochrome b, mitochondrially encoded
+FT                   subunit of the ubiquinol-cytochrome c reductase complex
+FT                   which includes Cobp, Rip1p, Cyt1p, Cor1p, Qcr2p, Qcr6p,
+FT                   Qcr7p, Qcr8p, Qcr9p, and Qcr10p
+FT                   [Source:SGD;Acc:S000007270]"
+FT   gene            36540..42251
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:BI4"
+FT                   /db_xref="Uniprot_genename:BI4"
+FT                   /db_xref="EntrezGene:BI4"
+FT                   /name="BI4"
+FT                   /id="Q0120"
+FT                   /description="Mitochondrial mRNA maturase, forms a complex
+FT                   with Nam2p to mediate splicing of the bI4 intron of the
+FT                   COB gene; encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007273]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(36540..36954,37723..37736,39141..39217,40841..42251)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184365.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184365.1"
+FT                   /name="BI4"
+FT                   /id="Q0120"
+FT                   /description="Mitochondrial mRNA maturase, forms a complex
+FT                   with Nam2p to mediate splicing of the bI4 intron of the
+FT                   COB gene; encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007273]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(36540..36954,37723..37736,39141..39217,40841..42251)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:3.1.-.-"
+FT                   /db_xref="Uniprot/SWISSPROT:MBI4_YEAST"
+FT                   /db_xref="UniParc:UPI000008F67F"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="RefSeq_peptide:NP_009316.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0000372 Group I intron splicing
+FT                   (biological_process)"
+FT                   /db_xref="GO:0022904 respiratory electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="BI4"
+FT                   /id="Q0120"
+FT                   /description="Mitochondrial mRNA maturase, forms a complex
+FT                   with Nam2p to mediate splicing of the bI4 intron of the
+FT                   COB gene; encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007273]"
+FT   gene            36540..40265
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:BI3"
+FT                   /db_xref="Uniprot_genename:BI3"
+FT                   /db_xref="EntrezGene:BI3"
+FT                   /name="BI3"
+FT                   /id="Q0115"
+FT                   /description="Mitochondrial mRNA maturase, forms a complex
+FT                   with Mrs1p to mediate splicing of the bI3 intron of the
+FT                   COB gene; encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007272]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(36540..36954,37723..37736,39141..40265)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184364.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184364.1"
+FT                   /name="BI3"
+FT                   /id="Q0115"
+FT                   /description="Mitochondrial mRNA maturase, forms a complex
+FT                   with Mrs1p to mediate splicing of the bI3 intron of the
+FT                   COB gene; encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007272]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(36540..36954,37723..37736,39141..40265)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:MBI3_YEAST"
+FT                   /db_xref="UniParc:UPI000012ED31"
+FT                   /db_xref="PDB:2AB5"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0006397"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0003723 RNA binding (molecular_function)"
+FT                   /db_xref="GO:0008380 RNA splicing (biological_process)"
+FT                   /db_xref="GO:0006397 mRNA processing (biological_process)"
+FT                   /db_xref="RefSeq_peptide:NP_009317.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0000372 Group I intron splicing
+FT                   (biological_process)"
+FT                   /db_xref="GO:0022904 respiratory electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="BI3"
+FT                   /id="Q0115"
+FT                   /description="Mitochondrial mRNA maturase, forms a complex
+FT                   with Mrs1p to mediate splicing of the bI3 intron of the
+FT                   COB gene; encoded by both exon and intron sequences of
+FT                   partially processed COB mRNA [Source:SGD;Acc:S000007272]"
+FT   gene            46723..46953
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:OLI1"
+FT                   /db_xref="Uniprot_genename:OLI1"
+FT                   /db_xref="EntrezGene:OLI1"
+FT                   /name="OLI1"
+FT                   /id="Q0130"
+FT                   /description="F0-ATP synthase subunit c (ATPase-associated
+FT                   proteolipid), encoded on the mitochondrial genome;
+FT                   mutation confers oligomycin resistance; expression is
+FT                   specifically dependent on the nuclear genes AEP1 and AEP2
+FT                   [Source:SGD;Acc:S000007274]"
+FT                   /biotype="protein_coding"
+FT   mRNA            46723..46953
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184366.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184366.1"
+FT                   /name="OLI1"
+FT                   /id="Q0130"
+FT                   /description="F0-ATP synthase subunit c (ATPase-associated
+FT                   proteolipid), encoded on the mitochondrial genome;
+FT                   mutation confers oligomycin resistance; expression is
+FT                   specifically dependent on the nuclear genes AEP1 and AEP2
+FT                   [Source:SGD;Acc:S000007274]"
+FT                   /biotype="protein_coding"
+FT   CDS             46723..46953
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:ATP9_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:E9PA20_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9PA19_YEASX"
+FT                   /db_xref="UniParc:UPI0000000276"
+FT                   /db_xref="PDB:2XOK"
+FT                   /db_xref="PDB:2WPD"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0055085"
+FT                   /db_xref="goslim_goa:GO:0044281"
+FT                   /db_xref="goslim_goa:GO:0009058"
+FT                   /db_xref="goslim_goa:GO:0006810"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0015078 hydrogen ion transmembrane
+FT                   transporter activity (molecular_function)"
+FT                   /db_xref="GO:0045263 proton-transporting ATP synthase
+FT                   complex, coupling factor F(o) (cellular_component)"
+FT                   /db_xref="GO:0000276 mitochondrial proton-transporting ATP
+FT                   synthase complex, coupling factor F(o)
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0015991 ATP hydrolysis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0046961 proton-transporting ATPase activity,
+FT                   rotational mechanism (molecular_function)"
+FT                   /db_xref="GO:0046933 hydrogen ion transporting ATP
+FT                   synthase activity, rotational mechanism
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0015986 ATP synthesis coupled proton
+FT                   transport (biological_process)"
+FT                   /db_xref="GO:0015992 proton transport
+FT                   (biological_process)"
+FT                   /db_xref="GO:0031966 mitochondrial membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0006811 ion transport (biological_process)"
+FT                   /db_xref="GO:0016887 ATPase activity (molecular_function)"
+FT                   /db_xref="GO:0008289 lipid binding (molecular_function)"
+FT                   /db_xref="GO:0033177 proton-transporting two-sector ATPase
+FT                   complex, proton-transporting domain (cellular_component)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="RefSeq_peptide:NP_009319.1"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /name="OLI1"
+FT                   /id="Q0130"
+FT                   /description="F0-ATP synthase subunit c (ATPase-associated
+FT                   proteolipid), encoded on the mitochondrial genome;
+FT                   mutation confers oligomycin resistance; expression is
+FT                   specifically dependent on the nuclear genes AEP1 and AEP2
+FT                   [Source:SGD;Acc:S000007274]"
+FT   gene            48201..48290
+FT                   /source="SGD_GENE"
+FT                   /name="tS(UGA)Q2"
+FT                   /id="tS(UGA)Q2"
+FT                   /description="Mitochondrial serine tRNA (tRNA-Ser),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007333]"
+FT                   /biotype="tRNA"
+FT   mRNA            48201..48290
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tS(UGA)Q2"
+FT                   /id="tS(UGA)Q2"
+FT                   /description="Mitochondrial serine tRNA (tRNA-Ser),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007333]"
+FT                   /biotype="tRNA"
+FT   gene            48901..50097
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:VAR1"
+FT                   /db_xref="Uniprot_genename:VAR1"
+FT                   /db_xref="EntrezGene:VAR1"
+FT                   /name="VAR1"
+FT                   /id="Q0140"
+FT                   /description="Mitochondrial ribosomal protein of the small
+FT                   subunit, mitochondrially-encoded; polymorphic in different
+FT                   strains due to variation in number of AAT (asparagine)
+FT                   codons; translated near the mitochondrial inner membrane
+FT                   [Source:SGD;Acc:S000007275]"
+FT                   /biotype="protein_coding"
+FT   mRNA            48901..50097
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184367.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184367.1"
+FT                   /name="VAR1"
+FT                   /id="Q0140"
+FT                   /description="Mitochondrial ribosomal protein of the small
+FT                   subunit, mitochondrially-encoded; polymorphic in different
+FT                   strains due to variation in number of AAT (asparagine)
+FT                   codons; translated near the mitochondrial inner membrane
+FT                   [Source:SGD;Acc:S000007275]"
+FT                   /biotype="protein_coding"
+FT   CDS             48901..50097
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:RMAR_YEAST"
+FT                   /db_xref="UniParc:UPI000009062C"
+FT                   /db_xref="goslim_goa:GO:0005840"
+FT                   /db_xref="goslim_goa:GO:0006412"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0009058"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0003735 structural constituent of ribosome
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005761 mitochondrial ribosome
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0030529 ribonucleoprotein complex
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0005840 ribosome (cellular_component)"
+FT                   /db_xref="GO:0006412 translation (biological_process)"
+FT                   /db_xref="GO:0005763 mitochondrial small ribosomal subunit
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0032543 mitochondrial translation
+FT                   (biological_process)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="RefSeq_peptide:NP_009320.1"
+FT                   /db_xref="goslim_goa:GO:0007005"
+FT                   /name="VAR1"
+FT                   /id="Q0140"
+FT                   /description="Mitochondrial ribosomal protein of the small
+FT                   subunit, mitochondrially-encoded; polymorphic in different
+FT                   strains due to variation in number of AAT (asparagine)
+FT                   codons; translated near the mitochondrial inner membrane
+FT                   [Source:SGD;Acc:S000007275]"
+FT   gene            51052..51228
+FT                   /source="SGD_GENE"
+FT                   /name="Q0142"
+FT                   /id="Q0142"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data; partially overlaps dubious open
+FT                   reading frame Q0143 [Source:SGD;Acc:S000007276]"
+FT                   /biotype="protein_coding"
+FT   mRNA            51052..51228
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0142"
+FT                   /id="Q0142"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data; partially overlaps dubious open
+FT                   reading frame Q0143 [Source:SGD;Acc:S000007276]"
+FT                   /biotype="protein_coding"
+FT   CDS             51052..51228
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0142_YEAST"
+FT                   /db_xref="UniParc:UPI000008F472"
+FT                   /name="Q0142"
+FT                   /id="Q0142"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data; partially overlaps dubious open
+FT                   reading frame Q0143 [Source:SGD;Acc:S000007276]"
+FT   gene            51277..51429
+FT                   /source="SGD_GENE"
+FT                   /name="Q0143"
+FT                   /id="Q0143"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007277]"
+FT                   /biotype="protein_coding"
+FT   mRNA            51277..51429
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0143"
+FT                   /id="Q0143"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007277]"
+FT                   /biotype="protein_coding"
+FT   CDS             51277..51429
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0143_YEAST"
+FT                   /db_xref="UniParc:UPI00000907F9"
+FT                   /name="Q0143"
+FT                   /id="Q0143"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007277]"
+FT   gene            54109..54438
+FT                   /source="SGD_GENE"
+FT                   /name="Q0144"
+FT                   /id="Q0144"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007278]"
+FT                   /biotype="protein_coding"
+FT   mRNA            54109..54438
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0144"
+FT                   /id="Q0144"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007278]"
+FT                   /biotype="protein_coding"
+FT   CDS             54109..54438
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0144_YEAST"
+FT                   /db_xref="UniParc:UPI000008D259"
+FT                   /name="Q0144"
+FT                   /id="Q0144"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007278]"
+FT   gene            58009..62447
+FT                   /source="SGD_GENE"
+FT                   /name="21S_RRNA"
+FT                   /id="21S_rRNA"
+FT                   /description="Mitochondrial 21S rRNA; intron encodes the
+FT                   I-SceI DNA endonuclease [Source:SGD;Acc:S000007288]"
+FT                   /biotype="rRNA"
+FT   rRNA            join(58009..60724,61868..62447)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="21S_RRNA"
+FT                   /id="21S_rRNA"
+FT                   /description="Mitochondrial 21S rRNA; intron encodes the
+FT                   I-SceI DNA endonuclease [Source:SGD;Acc:S000007288]"
+FT                   /biotype="rRNA"
+FT   gene            61022..61729
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:SCEI"
+FT                   /db_xref="Uniprot_genename:SCEI"
+FT                   /db_xref="EntrezGene:SCEI"
+FT                   /name="SCEI"
+FT                   /id="Q0160"
+FT                   /description="I-SceI DNA endonuclease, encoded by the
+FT                   mitochondrial group I intron of the 21S_rRNA gene;
+FT                   mediates gene conversion that propagates the intron into
+FT                   intron-less copies of the 21S_rRNA gene
+FT                   [Source:SGD;Acc:S000007279]"
+FT                   /biotype="protein_coding"
+FT   mRNA            61022..61729
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184371.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184371.1"
+FT                   /name="SCEI"
+FT                   /id="Q0160"
+FT                   /description="I-SceI DNA endonuclease, encoded by the
+FT                   mitochondrial group I intron of the 21S_rRNA gene;
+FT                   mediates gene conversion that propagates the intron into
+FT                   intron-less copies of the 21S_rRNA gene
+FT                   [Source:SGD;Acc:S000007279]"
+FT                   /biotype="protein_coding"
+FT   CDS             61022..61729
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:3.1.-.-"
+FT                   /db_xref="Uniprot/SWISSPROT:SCE1_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:E9PA09_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P9U6_YEASX"
+FT                   /db_xref="UniParc:UPI0000055997"
+FT                   /db_xref="PDB:3OOR"
+FT                   /db_xref="PDB:3OOL"
+FT                   /db_xref="PDB:3C0X"
+FT                   /db_xref="PDB:3C0W"
+FT                   /db_xref="PDB:1R7M"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009324.1"
+FT                   /name="SCEI"
+FT                   /id="Q0160"
+FT                   /description="I-SceI DNA endonuclease, encoded by the
+FT                   mitochondrial group I intron of the 21S_rRNA gene;
+FT                   mediates gene conversion that propagates the intron into
+FT                   intron-less copies of the 21S_rRNA gene
+FT                   [Source:SGD;Acc:S000007279]"
+FT   gene            63862..63937
+FT                   /source="SGD_GENE"
+FT                   /name="tT(UGU)Q1"
+FT                   /id="tT(UGU)Q1"
+FT                   /description="Mitochondrial threonine tRNA (tRNA-Thr),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007334]"
+FT                   /biotype="tRNA"
+FT   mRNA            63862..63937
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tT(UGU)Q1"
+FT                   /id="tT(UGU)Q1"
+FT                   /description="Mitochondrial threonine tRNA (tRNA-Thr),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007334]"
+FT                   /biotype="tRNA"
+FT   gene            64415..64490
+FT                   /source="SGD_GENE"
+FT                   /name="tC(GCA)Q"
+FT                   /id="tC(GCA)Q"
+FT                   /description="Mitochondrial cysteine tRNA (tRNA-Cys)
+FT                   [Source:SGD;Acc:S000007316]"
+FT                   /biotype="tRNA"
+FT   mRNA            64415..64490
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tC(GCA)Q"
+FT                   /id="tC(GCA)Q"
+FT                   /description="Mitochondrial cysteine tRNA (tRNA-Cys)
+FT                   [Source:SGD;Acc:S000007316]"
+FT                   /biotype="tRNA"
+FT   gene            64596..64670
+FT                   /source="SGD_GENE"
+FT                   /name="tH(GUG)Q"
+FT                   /id="tH(GUG)Q"
+FT                   /description="Mitochondrial histidine tRNA (tRNA-His),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007321]"
+FT                   /biotype="tRNA"
+FT   mRNA            64596..64670
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tH(GUG)Q"
+FT                   /id="tH(GUG)Q"
+FT                   /description="Mitochondrial histidine tRNA (tRNA-His),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007321]"
+FT                   /biotype="tRNA"
+FT   gene            65770..66174
+FT                   /source="SGD_GENE"
+FT                   /name="Q0182"
+FT                   /id="Q0182"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007280]"
+FT                   /biotype="protein_coding"
+FT   mRNA            65770..66174
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0182"
+FT                   /id="Q0182"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007280]"
+FT                   /biotype="protein_coding"
+FT   CDS             65770..66174
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0182_YEAST"
+FT                   /db_xref="UniParc:UPI0000092E51"
+FT                   /name="Q0182"
+FT                   /id="Q0182"
+FT                   /description="Dubious open reading frame unlikely to
+FT                   encode a protein, based on available experimental and
+FT                   comparative sequence data [Source:SGD;Acc:S000007280]"
+FT   gene            66095..66179
+FT                   /source="SGD_GENE"
+FT                   /name="tL(UAA)Q"
+FT                   /id="tL(UAA)Q"
+FT                   /description="Mitochondrial leucine tRNA (tRNA-Leu),
+FT                   predicted by tRNAscan-SE analysis; required for
+FT                   mitochondrial translation and indirectly for maintenance
+FT                   of the mitochondrial genome; mutations in the orthologous
+FT                   human gene cause the neurological disease MELAS
+FT                   [Source:SGD;Acc:S000007324]"
+FT                   /biotype="tRNA"
+FT   mRNA            66095..66179
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tL(UAA)Q"
+FT                   /id="tL(UAA)Q"
+FT                   /description="Mitochondrial leucine tRNA (tRNA-Leu),
+FT                   predicted by tRNAscan-SE analysis; required for
+FT                   mitochondrial translation and indirectly for maintenance
+FT                   of the mitochondrial genome; mutations in the orthologous
+FT                   human gene cause the neurological disease MELAS
+FT                   [Source:SGD;Acc:S000007324]"
+FT                   /biotype="tRNA"
+FT   gene            66210..66285
+FT                   /source="SGD_GENE"
+FT                   /name="tQ(UUG)Q"
+FT                   /id="tQ(UUG)Q"
+FT                   /description="Mitochondrial glutamine tRNA (tRNA-Gln),
+FT                   predicted by tRNAscan-SE analysis; thiolation of uridine
+FT                   at wobble position (34) requires Ncs6p
+FT                   [Source:SGD;Acc:S000007329]"
+FT                   /biotype="tRNA"
+FT   mRNA            66210..66285
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tQ(UUG)Q"
+FT                   /id="tQ(UUG)Q"
+FT                   /description="Mitochondrial glutamine tRNA (tRNA-Gln),
+FT                   predicted by tRNAscan-SE analysis; thiolation of uridine
+FT                   at wobble position (34) requires Ncs6p
+FT                   [Source:SGD;Acc:S000007329]"
+FT                   /biotype="tRNA"
+FT   gene            67061..67134
+FT                   /source="SGD_GENE"
+FT                   /name="tK(UUU)Q"
+FT                   /id="tK(UUU)Q"
+FT                   /description="Mitochondrial lysine tRNA (tRNA-Lys),
+FT                   predicted by tRNAscan-SE analysis; modification of wobble
+FT                   base U34 is decreased at elevated temperatures, decreasing
+FT                   ability to decode AAG codons; this function is performed
+FT                   at high temperature by imported cytop /.../ tRNA-Lys with
+FT                   CUU anticodon [Source:SGD;Acc:S000007323]"
+FT                   /biotype="tRNA"
+FT   mRNA            67061..67134
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tK(UUU)Q"
+FT                   /id="tK(UUU)Q"
+FT                   /description="Mitochondrial lysine tRNA (tRNA-Lys),
+FT                   predicted by tRNAscan-SE analysis; modification of wobble
+FT                   base U34 is decreased at elevated temperatures, decreasing
+FT                   ability to decode AAG codons; this function is performed
+FT                   at high temperature by imported cytop /.../ tRNA-Lys with
+FT                   CUU anticodon [Source:SGD;Acc:S000007323]"
+FT                   /biotype="tRNA"
+FT   gene            67309..67381
+FT                   /source="SGD_GENE"
+FT                   /name="tR(UCU)Q1"
+FT                   /id="tR(UCU)Q1"
+FT                   /description="Mitochondrial arginine tRNA (tRNA-Arg),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007331]"
+FT                   /biotype="tRNA"
+FT   mRNA            67309..67381
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tR(UCU)Q1"
+FT                   /id="tR(UCU)Q1"
+FT                   /description="Mitochondrial arginine tRNA (tRNA-Arg),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007331]"
+FT                   /biotype="tRNA"
+FT   gene            67468..67542
+FT                   /source="SGD_GENE"
+FT                   /name="tG(UCC)Q"
+FT                   /id="tG(UCC)Q"
+FT                   /description="Mitochondrial glycine tRNA (tRNA-Gly),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007320]"
+FT                   /biotype="tRNA"
+FT   mRNA            67468..67542
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tG(UCC)Q"
+FT                   /id="tG(UCC)Q"
+FT                   /description="Mitochondrial glycine tRNA (tRNA-Gly),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007320]"
+FT                   /biotype="tRNA"
+FT   gene            68322..68396
+FT                   /source="SGD_GENE"
+FT                   /name="tD(GUC)Q"
+FT                   /id="tD(GUC)Q"
+FT                   /description="Mitochondrial aspartate tRNA (tRNA-Asp),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007317]"
+FT                   /biotype="tRNA"
+FT   mRNA            68322..68396
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tD(GUC)Q"
+FT                   /id="tD(GUC)Q"
+FT                   /description="Mitochondrial aspartate tRNA (tRNA-Asp),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007317]"
+FT                   /biotype="tRNA"
+FT   gene            69203..69288
+FT                   /source="SGD_GENE"
+FT                   /name="tS(GCU)Q1"
+FT                   /id="tS(GCU)Q1"
+FT                   /description="Mitochondrial serine tRNA (tRNA-Ser),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007332]"
+FT                   /biotype="tRNA"
+FT   mRNA            69203..69288
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tS(GCU)Q1"
+FT                   /id="tS(GCU)Q1"
+FT                   /description="Mitochondrial serine tRNA (tRNA-Ser),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007332]"
+FT                   /biotype="tRNA"
+FT   gene            69289..69362
+FT                   /source="SGD_GENE"
+FT                   /name="tR(ACG)Q2"
+FT                   /id="tR(ACG)Q2"
+FT                   /description="Mitochondrial arginine tRNA (tRNA-Arg),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007330]"
+FT                   /biotype="tRNA"
+FT   mRNA            69289..69362
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tR(ACG)Q2"
+FT                   /id="tR(ACG)Q2"
+FT                   /description="Mitochondrial arginine tRNA (tRNA-Arg),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007330]"
+FT                   /biotype="tRNA"
+FT   gene            69846..69921
+FT                   /source="SGD_GENE"
+FT                   /name="tA(UGC)Q"
+FT                   /id="tA(UGC)Q"
+FT                   /description="Mitochondrial alanine tRNA (tRNA-Ala),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007315]"
+FT                   /biotype="tRNA"
+FT   mRNA            69846..69921
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tA(UGC)Q"
+FT                   /id="tA(UGC)Q"
+FT                   /description="Mitochondrial alanine tRNA (tRNA-Ala),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007315]"
+FT                   /biotype="tRNA"
+FT   gene            70162..70237
+FT                   /source="SGD_GENE"
+FT                   /name="tI(GAU)Q"
+FT                   /id="tI(GAU)Q"
+FT                   /description="Mitochondrial isoleucine tRNA (tRNA-Ile),
+FT                   predicted by tRNAscan-SE analysis; mutations in human
+FT                   ortholog are linked to conditions such as progressive
+FT                   encephalopathy, metabolic syndrome, and hypomagnesaemia
+FT                   [Source:SGD;Acc:S000007322]"
+FT                   /biotype="tRNA"
+FT   mRNA            70162..70237
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tI(GAU)Q"
+FT                   /id="tI(GAU)Q"
+FT                   /description="Mitochondrial isoleucine tRNA (tRNA-Ile),
+FT                   predicted by tRNAscan-SE analysis; mutations in human
+FT                   ortholog are linked to conditions such as progressive
+FT                   encephalopathy, metabolic syndrome, and hypomagnesaemia
+FT                   [Source:SGD;Acc:S000007322]"
+FT                   /biotype="tRNA"
+FT   gene            70824..70907
+FT                   /source="SGD_GENE"
+FT                   /name="tY(GUA)Q"
+FT                   /id="tY(GUA)Q"
+FT                   /description="Mitochondrial tyrosine tRNA (tRNA-Tyr)
+FT                   [Source:SGD;Acc:S000007338]"
+FT                   /biotype="tRNA"
+FT   mRNA            70824..70907
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tY(GUA)Q"
+FT                   /id="tY(GUA)Q"
+FT                   /description="Mitochondrial tyrosine tRNA (tRNA-Tyr)
+FT                   [Source:SGD;Acc:S000007338]"
+FT                   /biotype="tRNA"
+FT   gene            71433..71503
+FT                   /source="SGD_GENE"
+FT                   /name="tN(GUU)Q"
+FT                   /id="tN(GUU)Q"
+FT                   /description="Mitochondrial asparagine tRNA (tRNA-Asn),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007327]"
+FT                   /biotype="tRNA"
+FT   mRNA            71433..71503
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tN(GUU)Q"
+FT                   /id="tN(GUU)Q"
+FT                   /description="Mitochondrial asparagine tRNA (tRNA-Asn),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007327]"
+FT                   /biotype="tRNA"
+FT   gene            72630..72705
+FT                   /source="SGD_GENE"
+FT                   /name="tM(CAU)Q1"
+FT                   /id="tM(CAU)Q1"
+FT                   /description="Mitochondrial methionine tRNA (tRNA-Met),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007325]"
+FT                   /biotype="tRNA"
+FT   mRNA            72630..72705
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tM(CAU)Q1"
+FT                   /id="tM(CAU)Q1"
+FT                   /description="Mitochondrial methionine tRNA (tRNA-Met),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007325]"
+FT                   /biotype="tRNA"
+FT   gene            73758..74513
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:COX2"
+FT                   /db_xref="Uniprot_genename:COXII"
+FT                   /db_xref="Uniprot_genename:COII"
+FT                   /db_xref="Uniprot_genename:COX2"
+FT                   /db_xref="EntrezGene:COX2"
+FT                   /name="COX2"
+FT                   /id="Q0250"
+FT                   /description="Subunit II of cytochrome c oxidase, which is
+FT                   the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007281]"
+FT                   /biotype="protein_coding"
+FT   mRNA            73758..74513
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184373.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184373.1"
+FT                   /name="COX2"
+FT                   /id="Q0250"
+FT                   /description="Subunit II of cytochrome c oxidase, which is
+FT                   the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007281]"
+FT                   /biotype="protein_coding"
+FT   CDS             73758..74513
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:1.9.3.1"
+FT                   /db_xref="Uniprot/SWISSPROT:COX2_YEAST"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7I2Q6_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:Q7H4E9_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:Q6XAN7_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P8R2_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P8Q8_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P8N3_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:E9P8I3_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:D6C7H3_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:D6C7H1_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:D6C7H0_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:D6C7G9_YEASX"
+FT                   /db_xref="Uniprot/SPTREMBL:D6C7G8_YEASX"
+FT                   /db_xref="UniParc:UPI0000128097"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0006810"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0006810 transport (biological_process)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0046872 metal ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="RefSeq_peptide:NP_009326.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005751 mitochondrial respiratory chain
+FT                   complex IV (cellular_component)"
+FT                   /db_xref="GO:0006123 mitochondrial electron transport,
+FT                   cytochrome c to oxygen (biological_process)"
+FT                   /db_xref="GO:0005507 copper ion binding
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0022904 respiratory electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0009055 electron carrier activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0020037 heme binding (molecular_function)"
+FT                   /db_xref="GO:0022900 electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0070469 respiratory chain
+FT                   (cellular_component)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /name="COX2"
+FT                   /id="Q0250"
+FT                   /description="Subunit II of cytochrome c oxidase, which is
+FT                   the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007281]"
+FT   gene            74495..75984
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:Q0255"
+FT                   /db_xref="EntrezGene:Q0255"
+FT                   /name="Q0255"
+FT                   /id="Q0255"
+FT                   /description="Maturase-like protein
+FT                   [Source:SGD;Acc:S000007282]"
+FT                   /biotype="protein_coding"
+FT   mRNA            join(74495..75622,75663..75872,75904..75984)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184374.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184374.1"
+FT                   /name="Q0255"
+FT                   /id="Q0255"
+FT                   /description="Maturase-like protein
+FT                   [Source:SGD;Acc:S000007282]"
+FT                   /biotype="protein_coding"
+FT   CDS             join(74495..75622,75663..75872,75904..75984)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:YMRF1_YEAST"
+FT                   /db_xref="UniParc:UPI000008E286"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0003674 molecular_function
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0006314 intron homing (biological_process)"
+FT                   /db_xref="GO:0004519 endonuclease activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0008150 biological_process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0003677 DNA binding (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="RefSeq_peptide:NP_009327.1"
+FT                   /db_xref="goslim_goa:GO:0034641"
+FT                   /db_xref="goslim_goa:GO:0006259"
+FT                   /name="Q0255"
+FT                   /id="Q0255"
+FT                   /description="Maturase-like protein
+FT                   [Source:SGD;Acc:S000007282]"
+FT   gene            77431..77505
+FT                   /source="SGD_GENE"
+FT                   /name="tF(GAA)Q"
+FT                   /id="tF(GAA)Q"
+FT                   /description="Mitochondrial phenylalanine tRNA (tRNA-Phe),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007319]"
+FT                   /biotype="tRNA"
+FT   mRNA            77431..77505
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tF(GAA)Q"
+FT                   /id="tF(GAA)Q"
+FT                   /description="Mitochondrial phenylalanine tRNA (tRNA-Phe),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007319]"
+FT                   /biotype="tRNA"
+FT   gene            complement(78089..78162)
+FT                   /source="SGD_GENE"
+FT                   /name="tT(XXX)Q2"
+FT                   /id="tT(XXX)Q2"
+FT                   /description="Mitochondrial threonine tRNA (tRNA-Thr),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007335]"
+FT                   /biotype="tRNA"
+FT   mRNA            complement(78089..78162)
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tT(XXX)Q2"
+FT                   /id="tT(XXX)Q2"
+FT                   /description="Mitochondrial threonine tRNA (tRNA-Thr),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007335]"
+FT                   /biotype="tRNA"
+FT   gene            78533..78608
+FT                   /source="SGD_GENE"
+FT                   /name="tV(UAC)Q"
+FT                   /id="tV(UAC)Q"
+FT                   /description="Mitochondrial valine tRNA (tRNA-Val),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007336]"
+FT                   /biotype="tRNA"
+FT   mRNA            78533..78608
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tV(UAC)Q"
+FT                   /id="tV(UAC)Q"
+FT                   /description="Mitochondrial valine tRNA (tRNA-Val),
+FT                   predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007336]"
+FT                   /biotype="tRNA"
+FT   gene            79213..80022
+FT                   /source="SGD_GENE"
+FT                   /db_xref="WikiGene:COX3"
+FT                   /db_xref="Uniprot_genename:COX3"
+FT                   /db_xref="EntrezGene:COX3"
+FT                   /name="COX3"
+FT                   /id="Q0275"
+FT                   /description="Subunit III of cytochrome c oxidase, which
+FT                   is the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007283]"
+FT                   /biotype="protein_coding"
+FT   mRNA            79213..80022
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="RefSeq_dna:NM_001184375.1"
+FT                   /db_xref="RefSeq_mRNA:NM_001184375.1"
+FT                   /name="COX3"
+FT                   /id="Q0275"
+FT                   /description="Subunit III of cytochrome c oxidase, which
+FT                   is the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007283]"
+FT                   /biotype="protein_coding"
+FT   CDS             79213..80022
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="EC_NUMBER:1.9.3.1"
+FT                   /db_xref="Uniprot/SWISSPROT:COX3_YEAST"
+FT                   /db_xref="UniParc:UPI0000094CA7"
+FT                   /db_xref="goslim_goa:GO:0006091"
+FT                   /db_xref="goslim_goa:GO:0005739"
+FT                   /db_xref="goslim_goa:GO:0043226"
+FT                   /db_xref="goslim_goa:GO:0043234"
+FT                   /db_xref="goslim_goa:GO:0005737"
+FT                   /db_xref="GO:0055114 oxidation-reduction process
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016491 oxidoreductase activity
+FT                   (molecular_function)"
+FT                   /db_xref="GO:0009060 aerobic respiration
+FT                   (biological_process)"
+FT                   /db_xref="GO:0016021 integral to membrane
+FT                   (cellular_component)"
+FT                   /db_xref="GO:0016020 membrane (cellular_component)"
+FT                   /db_xref="GO:0005743 mitochondrial inner membrane
+FT                   (cellular_component)"
+FT                   /db_xref="RefSeq_peptide:NP_009328.1"
+FT                   /db_xref="GO:0005739 mitochondrion (cellular_component)"
+FT                   /db_xref="GO:0005751 mitochondrial respiratory chain
+FT                   complex IV (cellular_component)"
+FT                   /db_xref="GO:0006123 mitochondrial electron transport,
+FT                   cytochrome c to oxygen (biological_process)"
+FT                   /db_xref="GO:0022904 respiratory electron transport chain
+FT                   (biological_process)"
+FT                   /db_xref="GO:0004129 cytochrome-c oxidase activity
+FT                   (molecular_function)"
+FT                   /db_xref="goslim_goa:GO:0005623"
+FT                   /db_xref="goslim_goa:GO:0005622"
+FT                   /db_xref="goslim_goa:GO:0005575"
+FT                   /db_xref="GO:0015002 heme-copper terminal oxidase activity
+FT                   (molecular_function)"
+FT                   /name="COX3"
+FT                   /id="Q0275"
+FT                   /description="Subunit III of cytochrome c oxidase, which
+FT                   is the terminal member of the mitochondrial inner membrane
+FT                   electron transport chain; one of three
+FT                   mitochondrially-encoded subunits
+FT                   [Source:SGD;Acc:S000007283]"
+FT   gene            85035..85112
+FT                   /source="SGD_GENE"
+FT                   /name="tM(CAU)Q2"
+FT                   /id="tM(CAU)Q2"
+FT                   /description="Mitochondrial formylated methionine tRNA
+FT                   (tRNA-fMet); predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007326]"
+FT                   /biotype="tRNA"
+FT   mRNA            85035..85112
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="tM(CAU)Q2"
+FT                   /id="tM(CAU)Q2"
+FT                   /description="Mitochondrial formylated methionine tRNA
+FT                   (tRNA-fMet); predicted by tRNAscan-SE analysis
+FT                   [Source:SGD;Acc:S000007326]"
+FT                   /biotype="tRNA"
+FT   gene            85295..85777
+FT                   /source="SGD_GENE"
+FT                   /name="RPM1"
+FT                   /id="RPM1"
+FT                   /description="RNA component of mitochondrial RNase P,
+FT                   which also contains the protein subunit Rpm2p; RNase P
+FT                   removes 5' extensions from mitochondrial tRNA precursors;
+FT                   RPM1 is conserved in bacteria, fungi, and protozoa
+FT                   [Source:SGD;Acc:S000029023]"
+FT                   /biotype="ncRNA"
+FT   mRNA            85295..85777
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="RPM1"
+FT                   /id="RPM1"
+FT                   /description="RNA component of mitochondrial RNase P,
+FT                   which also contains the protein subunit Rpm2p; RNase P
+FT                   removes 5' extensions from mitochondrial tRNA precursors;
+FT                   RPM1 is conserved in bacteria, fungi, and protozoa
+FT                   [Source:SGD;Acc:S000029023]"
+FT                   /biotype="ncRNA"
+FT   gene            85554..85709
+FT                   /source="SGD_GENE"
+FT                   /name="Q0297"
+FT                   /id="Q0297"
+FT                   /description="Dubious open reading frame of the
+FT                   mitochondrial genome; unlikely to encode a protein, based
+FT                   on available experimental and comparative sequence data;
+FT                   partially overlaps the verified gene RPM1
+FT                   [Source:SGD;Acc:S000007284]"
+FT                   /biotype="protein_coding"
+FT   mRNA            85554..85709
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /name="Q0297"
+FT                   /id="Q0297"
+FT                   /description="Dubious open reading frame of the
+FT                   mitochondrial genome; unlikely to encode a protein, based
+FT                   on available experimental and comparative sequence data;
+FT                   partially overlaps the verified gene RPM1
+FT                   [Source:SGD;Acc:S000007284]"
+FT                   /biotype="protein_coding"
+FT   CDS             85554..85709
+FT                   /source="SGD_TRANSCRIPT"
+FT                   /db_xref="Uniprot/SWISSPROT:Q0297_YEAST"
+FT                   /db_xref="UniParc:UPI00000973DE"
+FT                   /name="Q0297"
+FT                   /id="Q0297"
+FT                   /description="Dubious open reading frame of the
+FT                   mitochondrial genome; unlikely to encode a protein, based
+FT                   on available experimental and comparative sequence data;
+FT                   partially overlaps the verified gene RPM1
+FT                   [Source:SGD;Acc:S000007284]"
+XX
+SQ   Sequence 85779 BP; 0 A; 0 C; 0 G; 0 T; 85779 other;
