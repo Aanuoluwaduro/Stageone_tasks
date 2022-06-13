@@ -1,9 +1,0 @@
-   15535 lane8_DD_P4_TTAGGC_L008_R1.fastq.gz
-   16003 lane8_DD_P4_TTAGGC_L008_R2.fastq.gz
-   15912 lane8_DD_P9_TGACCA_L008_R1.fastq.gz
-   15796 lane8_DD_P9_TGACCA_L008_R2.fastq.gz
-   15607 lane8_FF_P4_ATCACG_L008_R1.fastq.gz
-   16399 lane8_FF_P4_ATCACG_L008_R2.fastq.gz
-   15588 lane8_FF_P9_CGATGT_L008_R1.fastq.gz
-   15692 lane8_FF_P9_CGATGT_L008_R2.fastq.gz
-  126532 total
